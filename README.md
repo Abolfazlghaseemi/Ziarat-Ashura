@@ -2,3 +2,4 @@
 ![588](https://github.com/user-attachments/assets/36e37a67-52b7-4032-859b-69fd9fe7fa7c)
 
 برنامه زیارت عاشورا یک برنامه مناسب برای مطالعه در مراسم مذهبی می باشد ساده و کم حجم
+لینک دالنود اپلیکیشن:             https://drive.google.com/file/d/1iTBv2Wk3NklEpm-79bIv-_a2w9GUmrP0/view?usp=drivesdk
